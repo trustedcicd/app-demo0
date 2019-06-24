@@ -1,2 +1,2 @@
-# hello-trusted-cicd-world
+# app-demo0
 Hello Trusted CICD World
