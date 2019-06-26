@@ -1,6 +1,1 @@
-FROM alpine
-
-ENV WHOAMI "WHOAMI?"
-ADD hello-trusted-cicd-world.sh /
-
-ENTRYPOINT /hello-trusted-cicd-world.sh $WHOAMI
+FROM ibmcom/mysql-s390x:5.7.24
